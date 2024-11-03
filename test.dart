@@ -1,1 +1,4 @@
-ASKla;skASL;k:
+main(){
+    int score = 0;
+    print(score);
+}
